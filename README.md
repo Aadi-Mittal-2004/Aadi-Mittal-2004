@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadi-Mittal-2004
 - 👀 I’m interested in development and cp
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aadimittal876@gmail.com
 
