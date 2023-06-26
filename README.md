@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aadi-Mittal-2004
-- 👀 I’m interested in development and cp
+- 👀 I’m interested in development and open source
 - 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects which solve problems
 - 📫 How to reach me aadimittal876@gmail.com
 
 <!---
